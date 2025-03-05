@@ -1,4 +1,4 @@
-module github.com/xbiletskyi/open5gs-logger
+module github.com/xbiletskyi/zap_open5gs_format
 
 go 1.22.2
 
